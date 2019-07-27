@@ -1,0 +1,162 @@
+ [
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "imageName": "AU"
+    },
+    {
+      "code": "BGN",
+      "name": "Bulgarian Lev",
+      "imageName": "BG"
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "imageName": "BR"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "imageName": "CA"
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "imageName": "CH"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "imageName": "CN"
+    },
+    {
+      "code": "CZK",
+      "name": "Czech Republic Koruna",
+      "imageName": "CZ"
+    },
+    {
+      "code": "DKK",
+      "name": "Danish Krone",
+      "imageName": "DK"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "imageName": "EU"
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound Sterling",
+      "imageName": "GB"
+    },
+    {
+      "code": "HKD",
+      "name": "Hong Kong Dollar",
+      "imageName": "HK"
+    },
+    {
+      "code": "HRK",
+      "name": "Croatian Kun",
+      "imageName": "HR"
+    },
+    {
+      "code": "HUF",
+      "name": "Hungarian Forint",
+      "imageName": "HU"
+    },
+    {
+      "code": "IDR",
+      "name": "Indonesian Rupiah",
+      "imageName": "ID"
+    },
+    {
+      "code": "ILS",
+      "name": "Israeli New Sheqel",
+      "imageName": "IL"
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee",
+      "imageName": "IN"
+    },
+    {
+      "code": "ISK",
+      "name": "Icelandic Króna",
+      "imageName": "IS"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "imageName": "JP"
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won",
+      "imageName": "KR"
+    },
+    {
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "imageName": "MX"
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysian Ringgit",
+      "imageName": "MY"
+    },
+    {
+      "code": "NOK",
+      "name": "Norwegian Krone",
+      "imageName": "NO"
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "imageName": "NZ"
+    },
+    {
+      "code": "PHP",
+      "name": "Philippine Peso",
+      "imageName": "PH"
+    },
+    {
+      "code": "PLN",
+      "name": "Polish Zloty",
+      "imageName": "PL"
+    },
+    {
+      "code": "RON",
+      "name": "Romanian Leu",
+      "imageName": "RO"
+    },
+    {
+      "code": "RUB",
+      "name": "Russian Ruble",
+      "imageName": "RU"
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "imageName": "SE"
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "imageName": "SG"
+    },
+    {
+      "code": "THB",
+      "name": "Thai Baht",
+      "imageName": "TH"
+    },
+    {
+      "code": "USD",
+      "name": "United States Dollar",
+      "imageName": "US"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African Rand",
+      "imageName": "ZA"
+    }
+]
